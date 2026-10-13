@@ -1,0 +1,12 @@
+{
+  "watch": ["src"],
+  "ignore": [
+    "uploads/*",
+    "uploads/**",
+    "uploads/baileys_auth/*",
+    "uploads/baileys_auth/**",
+    "*.json",
+    "node_modules"
+  ],
+  "ext": "js,env"
+}
